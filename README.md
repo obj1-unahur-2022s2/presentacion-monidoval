@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/familia.JPG)
+![Logo UNAHUR](./assets/familia.jpg)
 
 
 # Programación con objetos I
