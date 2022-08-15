@@ -1,4 +1,4 @@
-![familia](./assets/familia.JPEG)
+![familia](./assets/familia.jpeg)
 
 
 # Programación con objetos I
